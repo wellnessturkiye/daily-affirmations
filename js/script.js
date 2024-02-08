@@ -33,7 +33,23 @@ $(document).ready(function() {
     { title: "Success", message: "Bloom wherever you are planted." },
     { title: "Surprises", message: "Venture down the rabbit hole." },
     { title: "Transform", message: "Rise above any situation and become the best version of you." },
-    { title: "Wallflower", message: "Look for the crack in the concrete to find your way out." }
+    { title: "Wallflower", message: "Look for the crack in the concrete to find your way out." },
+    { title: "Be Fierce", message: "Do things that challenge you." },
+    { title: "Lost and Found", message: "On your soul’s journey, you need to lose yourself so you can find yourself again. Follow your dreams." },
+    { title: "Balance and Manoeuvre", message: "Span time reclaiming your balance. There you will find peace." },
+    { title: "Commitment", message: "Honour your commitments. Be loyal to your soul’s longings - This is where you will find joy." },
+    { title: "Vision", message: "Life will support the vision you have for yourself - Make it the best it can be." },
+    { title: "Re-Focus", message: "Live your own authentic life with courage to be your true self. Renew your focus." },
+    { title: "Burdens", message: "Let go of outcomes. You will be released from the burden you carry." },
+    { title: "Guidance", message: "Your life lessons will be repeated until they are learnt. Guidance is on the way." },
+    { title: "Your Voice", message: "Never be afraid to voice your truth, as truth comes from a deep place within your hearth." },
+    { title: "Past", message: "Heal through changing your story. Begin in this moment. Don’t look back." },
+    { title: "Fear", message: "It is only when we accept vulnerability that we are truly brave. Rise above your fears." },
+    { title: "Future", message: "Surrender yourself to the slow of life and see how you can influence your future. Keep moving forward and your life’s purpose will manifest." },
+    { title: "Hidden Potential", message: "Be mindful with your life’s potential. Seek and find. Know and discover.." },
+    { title: "Confidence", message: "Gently place our feet on the path you were meant to travel." },
+    { title: "Ying Yang", message: "As light follows darkness, so day follows night. Be patient and wait for the right opportunity to create a new chapter in your life." },
+    { title: "Detour", message: "The path isn’t always a straight line. You come back to things that you thought you understood and see deeper truths." }
 ];
 
 
